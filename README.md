@@ -1,6 +1,6 @@
 # 🎯 Stakeholder Insights and Performance Dashboard
 
-![Dashboard Preview](stakeholder.png)
+![Dashboard Preview](Stakeholder Insights and Pefrormance Dashboard (2).png)
 
 ## Objective
 This project empowers insurance stakeholders to visualize key metrics related to insurer performance, premium trends, profitability, and asset distribution. The dashboard enables data-driven stakeholder decisions.
